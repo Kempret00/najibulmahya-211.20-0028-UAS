@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433533131535",
+    "project_id": "flutterfirenajib",
+    "storage_bucket": "flutterfirenajib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433533131535:android:d9a28e682e8775d6907c7a",
+        "android_client_info": {
+          "package_name": "com.example.flutterlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLD11T8-tjqKn2apnJ6uCVkU9RJirlh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
